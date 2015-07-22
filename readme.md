@@ -1,2 +1,0 @@
-# zkouska
-Tady zkouším NETTE
